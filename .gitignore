@@ -1,5 +1,6 @@
 # vs code folder
-.vcode
+.vscode
 
 # test files
 *main.c
+binary_tree_print.c
